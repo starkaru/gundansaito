@@ -1,0 +1,65 @@
+
+
+
+
+
+
+ul#tokuten_gundanin a {
+    display: block;
+    width: 375px;
+    height: 150px;
+    text-indent:-9999px;
+    overflow: hidden;
+    border: 0;
+
+
+
+    }
+
+a.gundanin{ background-image:url(img/gundanin.webp) }
+a:hover.gundanin{ background-position:0px -150px }
+
+a.tokuten{ background-image:url(img/tokuten.webp) }
+a:hover.tokuten{ background-position:0px -150px }
+
+#tokuten_gundanin li {
+    display: inline;
+    float: left;
+
+    padding-left: 0px;
+
+    padding: 0 0px 0 0px;
+
+}
+
+#tokuten_gundanin li {
+  width: fit-content;
+    margin: auto;
+}
+
+
+
+
+    ul {
+        display: flex;
+        list-style-type: none;
+          padding-left:0;
+
+    }
+
+
+
+
+
+
+    .Main  {
+
+        background-color: #000000;
+    }
+
+        li chtati {
+              list-style:none;
+        background-color: #000000;
+
+       
+    }
