@@ -3,7 +3,8 @@ body{
   background-image: url(img/back.webp);
   background-size: 406px,271px;
 
-width:811px;
+/*width:811px; */
+
 margin-right: auto;
 margin-left : auto;
 
@@ -17,7 +18,9 @@ background-repeat: repeat;
 width:811px;
 margin-right: auto;
 margin-left : auto;
+
 }
+
 
 
 
@@ -44,11 +47,19 @@ nav {
 
 }
 
-.migiue{
-
+.migiue {
+  position: fixed;
+  right: 0;
   transform: translateY(-10%);
-   float: right;
+  float: right;
+  width: 100px;
+  display: flex;
+  justify-content: flex-end;
 }
+
+
+
+
 
 
 

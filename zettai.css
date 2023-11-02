@@ -1,0 +1,21 @@
+@media screen and (max-width:480px) {
+
+	/*　画面サイズが480px以下の場合ここの記述が適用される　*/
+	nav {
+		width: 100%;
+	}
+
+
+		.main {
+		width: 100%;
+	}
+}
+
+
+		.genten {
+		width: 100%;
+	}
+}
+a {
+    cursor: pointer;
+}
