@@ -1,0 +1,89 @@
+body{
+
+  background-image: url(img/back.webp);
+  background-size: 406px,271px;
+
+width:811px;
+margin-right: auto;
+margin-left : auto;
+
+
+background-repeat: repeat;
+
+
+}
+
+#main{
+width:811px;
+margin-right: auto;
+margin-left : auto;
+}
+
+
+
+
+a {
+    cursor: pointer;
+}
+
+
+
+
+
+
+nav {
+      position: fixed;
+}
+
+
+
+.hidariue{
+
+  transform: translateY(-10%);
+     float: left;
+
+}
+
+.migiue{
+
+  transform: translateY(-10%);
+   float: right;
+}
+
+
+
+
+.modoru:hover img {
+  transition: transform 0.6s;
+  transform: rotate(360deg);
+
+
+
+}
+
+
+
+
+
+
+
+    .member {
+        background-color: #EBEBEB;
+  width: 10w;
+
+         border: 4px red;
+           border-style: outset;
+       margin-bottom: 20px;
+
+
+
+ display: flex;
+  flex-direction: column;
+
+
+    }
+
+
+
+
+
